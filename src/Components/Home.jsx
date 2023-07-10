@@ -4,12 +4,12 @@ import About from './About'
 import Technology from './Technology'
 import Experience from './Experience'
 import Proyects from './Proyects'
-import Contact from './Emailme'
+import Contact from './Contact'
 import Footer from './Footer'
 
 const Home = () => {
   return (
-    <main className='bg-bgPurple w-full h-full'>
+    <main className='bg-bgPurple overflow-x-hidden w-full h-full'>
         <Nav/>
         <About/>
         <Technology/>
