@@ -16,8 +16,8 @@ const Nav = () => {
       xl:gap-[4%] xl:p-[1%] xl:text-lg 
       lg:gap-[4%] lg:p-[1%] lg:text-lg 
       md:gap-[4%] md:p-[1%] md:text-md
-      sm:gap-[4%] sm:p-[1%] sm:text-md
-      xs:gap-[2%] xs:p-[1%] xs:text-md
+      sm:gap-[4%] sm:p-[1%] sm:text-sm
+      xs:gap-[2%] xs:p-[1%] xs:text-sm
       '>
         <Link
           to="about"
